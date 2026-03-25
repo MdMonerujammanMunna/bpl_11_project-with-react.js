@@ -1,0 +1,152 @@
+[
+  {
+    "PlayerName": "Virat Kohli",
+    "PlayerCountry": "India",
+    "PlayerType": "Batsman",
+    "Rating": 95,
+    "Price": 1200000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm medium",
+    "PlayerImage": "https://i.ibb.co.com/wZ70qxQH/Virat-Kohli.webp"
+  },
+  {
+    "PlayerName": "Joe Root",
+    "PlayerCountry": "England",
+    "PlayerType": "Batsman",
+    "Rating": 92,
+    "Price": 1100000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm off break",
+    "PlayerImage": "https://i.ibb.co.com/YBwq0GSP/root.webp"
+  },
+  {
+    "PlayerName": "Babar Azam",
+    "PlayerCountry": "Pakistan",
+    "PlayerType": "Batsman",
+    "Rating": 91,
+    "Price": 1000000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm off break",
+    "PlayerImage": "https://i.ibb.co.com/xtk4NVdj/babar-azom.jpg"
+  },
+  {
+    "PlayerName": "Ben Stokes",
+    "PlayerCountry": "England",
+    "PlayerType": "All-rounder",
+    "Rating": 90,
+    "Price": 1150000,
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Right-arm fast-medium",
+    "PlayerImage": " https://i.ibb.co.com/yvqxTmv/ben-stock.jpg"
+  },
+  {
+    "PlayerName": "Shakib Al Hasan",
+    "PlayerCountry": "Bangladesh",
+    "PlayerType": "All-rounder",
+    "Rating": 93,
+    "Price": 1050000,
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Slow left-arm orthodox",
+    "PlayerImage": "https://i.ibb.co.com/Swq45GkZ/sakib.jpg"
+  },
+  {
+    "PlayerName": "Kane Williamson",
+    "PlayerCountry": "New Zealand",
+    "PlayerType": "Batsman",
+    "Rating": 93,
+    "Price": 1080000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm off break",
+    "PlayerImage": "https://i.ibb.co.com/nMjr5v5F/kane-williamson.webp"
+  },
+  {
+    "PlayerName": "Steve Smith",
+    "PlayerCountry": "Australia",
+    "PlayerType": "Batsman",
+    "Rating": 94,
+    "Price": 1120000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm leg break",
+    "PlayerImage": "https://i.ibb.co.com/24ZvgfM/Steve-Smith.jpg"
+  },
+  {
+    "PlayerName": "David Warner",
+    "PlayerCountry": "Australia",
+    "PlayerType": "Batsman",
+    "Rating": 89,
+    "Price": 980000,
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Right-arm leg break",
+    "PlayerImage": " https://i.ibb.co.com/5VM5vvb/David-Warner.jpg"
+  },
+  {
+    "PlayerName": "Rohit Sharma",
+    "PlayerCountry": "India",
+    "PlayerType": "Batsman",
+    "Rating": 91,
+    "Price": 1070000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm off break",
+    "PlayerImage": "https://i.ibb.co.com/vCwLTsZk/Rohit-Sharma.jpg"
+  },
+  {
+    "PlayerName": "Jasprit Bumrah",
+    "PlayerCountry": "India",
+    "PlayerType": "Bowler",
+    "Rating": 92,
+    "Price": 1020000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm fast",
+    "PlayerImage": "https://i.ibb.co.com/V0TnWhry/Jasprit-Bumrah.jpg"
+  },
+  {
+    "PlayerName": "Mitchell Starc",
+    "PlayerCountry": "Australia",
+    "PlayerType": "Bowler",
+    "Rating": 91,
+    "Price": 1010000,
+    "BattingStyle": "Left-hand bat",
+    "BowlingStyle": "Left-arm fast",
+    "PlayerImage": " https://i.ibb.co.com/PzPyYS8Q/Mitchell-Starc.jpg"
+  },
+  {
+    "PlayerName": "Trent Boult",
+    "PlayerCountry": "New Zealand",
+    "PlayerType": "Bowler",
+    "Rating": 90,
+    "Price": 990000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Left-arm fast-medium",
+    "PlayerImage": " https://i.ibb.co.com/FbR1fxxK/Trent-Boult.jpg"
+  },
+  {
+    "PlayerName": "Rashid Khan",
+    "PlayerCountry": "Afghanistan",
+    "PlayerType": "All-rounder",
+    "Rating": 93,
+    "Price": 1090000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm leg break",
+    "PlayerImage": "https://i.ibb.co.com/LXydhmzR/Rashid-Khan.jpg"
+  },
+  {
+    "PlayerName": "Muttiah Muralitharan",
+    "PlayerCountry": "Sri Lanka",
+    "PlayerType": "Bowler",
+    "Rating": 95,
+    "Price": 1150000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm off break",
+    "PlayerImage": "https://i.ibb.co.com/DDYQ2x6t/Muttiah-Muralitharan.jpg"
+  },
+  {
+    "PlayerName": "AB de Villiers",
+    "PlayerCountry": "South Africa",
+    "PlayerType": "Batsman",
+    "Rating": 96,
+    "Price": 1250000,
+    "BattingStyle": "Right-hand bat",
+    "BowlingStyle": "Right-arm medium",
+    "PlayerImage": "https://i.ibb.co.com/Hfv6MdTg/AB-de-Villiers.jpg"
+  }
+]
