@@ -1,12 +1,13 @@
 import React, { use } from 'react';
 import { useState } from 'react';
 import Card from './Card/Card'
+import Selected from '../SelectedCard/Selected';
 const Player = ({ PlayersData }) => {
     const Player = use(PlayersData)
     const [SelectedType, setSelectedType] = useState("Available")
     return (
         <>
-            <div className="max-w-[1380px] mx-auto">
+            <div className="max-w-345 mx-auto">
 
                 <div className="mt-20 mb-8 flex justify-between items-center">
                     {
@@ -18,10 +19,21 @@ const Player = ({ PlayersData }) => {
                     </div>
                 </div>
                 {/* card */}
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 items-center gap-6  justify-between">
-                    {
-                        Player.map((value, index) => <Card key={index} value={value}></Card>)
-                    }</div>
+                {(SelectedType == "Selected") ?
+                    <>
+                        <div className="grid md:grid-cols-2 lg:grid-cols-3 items-center gap-6  justify-between">
+                            <Selected></Selected>
+                        </div>
+                    </>
+                    :
+                    <>
+                        <div className="grid md:grid-cols-2 lg:grid-cols-3 items-center gap-6  justify-between">
+                            {
+                                Player.map((value, index) => <Card key={index} value={value}></Card>)
+                            }
+                        </div>
+                    </>
+                }
             </div>
         </>
     );
